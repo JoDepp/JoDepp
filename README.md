@@ -1,5 +1,5 @@
-![Header](./githubreadme/![github-header-image](https://github.com/JoDepp/JoDepp/assets/85194911/0a1b0afd-1d6d-4e8b-9b9e-1d7a336621e6)
-.png)
+![github-header-image](https://github.com/JoDepp/JoDepp/assets/85194911/0a1b0afd-1d6d-4e8b-9b9e-1d7a336621e6)
+
 
 
 ### Hi there 👋
