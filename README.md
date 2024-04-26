@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Jody</h1>
 <h3 align="center">An obsessively chill frontend developer</h3>
 
-- 🔭 I’m currently working on [A Pet project](https://github.com/JoDepp/fish-personality-type)
+- 🔭 I’m currently working on [An AI job search website]([https://github.com/JoDepp/fish-personality-type](https://jodepp.github.io/JobsGuru-Bootstrap-Webpage/))
 
 - 🌱 I’m currently learning **to improve my JavaScript**
 
